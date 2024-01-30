@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin-top: 35vh;
+  margin-bottom: 35vh;
+  
+}
+
+#quote-box {
+  width: 50vw;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+
